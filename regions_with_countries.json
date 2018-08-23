@@ -1,0 +1,1006 @@
+{
+    "regions": [{
+            "region": "Africa",
+            "countries": [{
+                    "country": "Algeria",
+                    "population": 42008054,
+                    "subregion": "Northern Africa"
+                },
+                {
+                    "country": "Angola",
+                    "population": 30774205,
+                    "subregion": "Middle Africa"
+                },
+                {
+                    "country": "Benin",
+                    "population": 11485674,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Botswana",
+                    "population": 2333201,
+                    "subregion": "Southern Africa"
+                },
+                {
+                    "country": "Burkina Faso",
+                    "population": 19751651,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Burundi",
+                    "population": 11216450,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Cabo Verde",
+                    "population": 553335,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Cameroon",
+                    "population": 24678234,
+                    "subregion": "Middle Africa"
+                },
+                {
+                    "country": "Central African Republic",
+                    "population": 4737423,
+                    "subregion": "Middle Africa"
+                },
+                {
+                    "country": "Chad",
+                    "population": 15353184,
+                    "subregion": "Middle Africa"
+                },
+                {
+                    "country": "Comoros",
+                    "population": 832347,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Congo",
+                    "population": 5399895,
+                    "subregion": "Middle Africa"
+                },
+                {
+                    "country": "Côte d'Ivoire",
+                    "population": 24905843,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Djibouti",
+                    "population": 971408,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "DR Congo",
+                    "population": 84004989,
+                    "subregion": "Middle Africa"
+                },
+                {
+                    "country": "Egypt",
+                    "population": 99375741,
+                    "subregion": "Northern Africa"
+                },
+                {
+                    "country": "Equatorial Guinea",
+                    "population": 1313894,
+                    "subregion": "Middle Africa"
+                },
+                {
+                    "country": "Eritrea",
+                    "population": 5187948,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Ethiopia",
+                    "population": 107534882,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Gabon",
+                    "population": 2067561,
+                    "subregion": "Middle Africa"
+                },
+                {
+                    "country": "Gambia",
+                    "population": 2163765,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Ghana",
+                    "population": 29463643,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Guinea",
+                    "population": 13052608,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Guinea-Bissau",
+                    "population": 1907268,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Kenya",
+                    "population": 50950879,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Lesotho",
+                    "population": 2263010,
+                    "subregion": "Southern Africa"
+                },
+                {
+                    "country": "Liberia",
+                    "population": 4853516,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Libya",
+                    "population": 6470956,
+                    "subregion": "Northern Africa"
+                },
+                {
+                    "country": "Madagascar",
+                    "population": 26262810,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Malawi",
+                    "population": 19164728,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Mali",
+                    "population": 19107706,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Mauritania",
+                    "population": 4540068,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Mauritius",
+                    "population": 1268315,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Morocco",
+                    "population": 36191805,
+                    "subregion": "Northern Africa"
+                },
+                {
+                    "country": "Mozambique",
+                    "population": 30528673,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Namibia",
+                    "population": 2587801,
+                    "subregion": "Southern Africa"
+                },
+                {
+                    "country": "Niger",
+                    "population": 22311375,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Nigeria",
+                    "population": 195875237,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Rwanda",
+                    "population": 12501156,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Sao Tome & Principe",
+                    "population": 208818,
+                    "subregion": "Middle Africa"
+                },
+                {
+                    "country": "Senegal",
+                    "population": 16294270,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Seychelles",
+                    "population": 95235,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Sierra Leone",
+                    "population": 7719729,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Somalia",
+                    "population": 15181925,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "South Africa",
+                    "population": 57398421,
+                    "subregion": "Southern Africa"
+                },
+                {
+                    "country": "South Sudan",
+                    "population": 12919053,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Sudan",
+                    "population": 41511526,
+                    "subregion": "Northern Africa"
+                },
+                {
+                    "country": "Swaziland",
+                    "population": 1391385,
+                    "subregion": "Southern Africa"
+                },
+                {
+                    "country": "Tanzania",
+                    "population": 59091392,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Togo",
+                    "population": 7990926,
+                    "subregion": "Western Africa"
+                },
+                {
+                    "country": "Tunisia",
+                    "population": 11659174,
+                    "subregion": "Northern Africa"
+                },
+                {
+                    "country": "Uganda",
+                    "population": 44270563,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Zambia",
+                    "population": 17609178,
+                    "subregion": "Eastern Africa"
+                },
+                {
+                    "country": "Zimbabwe",
+                    "population": 16913261,
+                    "subregion": "Eastern Africa"
+                }
+            ]
+        },
+        {
+            "region": "Asia",
+            "countries": [{
+                    "country": "Afghanistan",
+                    "population": 36373176,
+                    "subregion": "Southern Asia"
+                },
+                {
+                    "country": "Armenia",
+                    "population": 2934152,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Azerbaijan",
+                    "population": 9923914,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Bahrain",
+                    "population": 1566993,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Bangladesh",
+                    "population": 166368149,
+                    "subregion": "Southern Asia"
+                },
+                {
+                    "country": "Bhutan",
+                    "population": 817054,
+                    "subregion": "Southern Asia"
+                },
+                {
+                    "country": "Brunei",
+                    "population": 434076,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "Cambodia",
+                    "population": 16245729,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "China",
+                    "population": 1415045928,
+                    "subregion": "Eastern Asia"
+                },
+                {
+                    "country": "Cyprus",
+                    "population": 1189085,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Georgia",
+                    "population": 3907131,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "India",
+                    "population": 1354051854,
+                    "subregion": "Southern Asia"
+                },
+                {
+                    "country": "Indonesia",
+                    "population": 266794980,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "Iran",
+                    "population": 82011735,
+                    "subregion": "Southern Asia"
+                },
+                {
+                    "country": "Iraq",
+                    "population": 39339753,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Israel",
+                    "population": 8452841,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Japan",
+                    "population": 127185332,
+                    "subregion": "Eastern Asia"
+                },
+                {
+                    "country": "Jordan",
+                    "population": 9903802,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Kazakhstan",
+                    "population": 18403860,
+                    "subregion": "Central Asia"
+                },
+                {
+                    "country": "Kuwait",
+                    "population": 4197128,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Kyrgyzstan",
+                    "population": 6132932,
+                    "subregion": "Central Asia"
+                },
+                {
+                    "country": "Laos",
+                    "population": 6961210,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "Lebanon",
+                    "population": 6093509,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Malaysia",
+                    "population": 32042458,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "Maldives",
+                    "population": 444259,
+                    "subregion": "Southern Asia"
+                },
+                {
+                    "country": "Mongolia",
+                    "population": 3121772,
+                    "subregion": "Eastern Asia"
+                },
+                {
+                    "country": "Myanmar",
+                    "population": 53855735,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "Nepal",
+                    "population": 29624035,
+                    "subregion": "Southern Asia"
+                },
+                {
+                    "country": "North Korea",
+                    "population": 25610672,
+                    "subregion": "Eastern Asia"
+                },
+                {
+                    "country": "Oman",
+                    "population": 4829946,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Pakistan",
+                    "population": 200813818,
+                    "subregion": "Southern Asia"
+                },
+                {
+                    "country": "Philippines",
+                    "population": 106512074,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "Qatar",
+                    "population": 2694849,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Saudi Arabia",
+                    "population": 33554343,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Singapore",
+                    "population": 5791901,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "South Korea",
+                    "population": 51164435,
+                    "subregion": "Eastern Asia"
+                },
+                {
+                    "country": "Sri Lanka",
+                    "population": 20950041,
+                    "subregion": "Southern Asia"
+                },
+                {
+                    "country": "State of Palestine",
+                    "population": 5052776,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Syria",
+                    "population": 18284407,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Tajikistan",
+                    "population": 9107211,
+                    "subregion": "Central Asia"
+                },
+                {
+                    "country": "Thailand",
+                    "population": 69183173,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "Timor-Leste",
+                    "population": 1324094,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "Turkey",
+                    "population": 81916871,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Turkmenistan",
+                    "population": 5851466,
+                    "subregion": "Central Asia"
+                },
+                {
+                    "country": "United Arab Emirates",
+                    "population": 9541615,
+                    "subregion": "Western Asia"
+                },
+                {
+                    "country": "Uzbekistan",
+                    "population": 32364996,
+                    "subregion": "Central Asia"
+                },
+                {
+                    "country": "Viet Nam",
+                    "population": 96491146,
+                    "subregion": "South-Eastern Asia"
+                },
+                {
+                    "country": "Yemen",
+                    "population": 28915284,
+                    "subregion": "Western Asia"
+                }
+            ]
+        },
+        {
+            "region": "Caribbean",
+            "countries": [{
+                    "country": "Antigua and Barbuda",
+                    "population": 103050,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Bahamas",
+                    "population": 399285,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Barbados",
+                    "population": 286388,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Cuba",
+                    "population": 11489082,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Dominica",
+                    "population": 74308,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Dominican Republic",
+                    "population": 10882996,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Grenada",
+                    "population": 108339,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Haiti",
+                    "population": 11112945,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Jamaica",
+                    "population": 2898677,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Saint Kitts & Nevis",
+                    "population": 55850,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Saint Lucia",
+                    "population": 179667,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "St. Vincent & Grenadines",
+                    "population": 110200,
+                    "subregion": "Caribbean"
+                },
+                {
+                    "country": "Trinidad and Tobago",
+                    "population": 1372598,
+                    "subregion": "Caribbean"
+                }
+            ]
+        },
+        {
+            "region": "Europe",
+            "countries": [{
+                    "country": "Albania",
+                    "population": 2934363,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Andorra",
+                    "population": 76953,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Austria",
+                    "population": 8751820,
+                    "subregion": "Western Europe"
+                },
+                {
+                    "country": "Belarus",
+                    "population": 9452113,
+                    "subregion": "Eastern Europe"
+                },
+                {
+                    "country": "Belgium",
+                    "population": 11498519,
+                    "subregion": "Western Europe"
+                },
+                {
+                    "country": "Bosnia & Herzegovina",
+                    "population": 3503554,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Bulgaria",
+                    "population": 7036848,
+                    "subregion": "Eastern Europe"
+                },
+                {
+                    "country": "Croatia",
+                    "population": 4164783,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Czech Republic",
+                    "population": 10625250,
+                    "subregion": "Eastern Europe"
+                },
+                {
+                    "country": "Denmark",
+                    "population": 5754356,
+                    "subregion": "Northern Europe"
+                },
+                {
+                    "country": "Estonia",
+                    "population": 1306788,
+                    "subregion": "Northern Europe"
+                },
+                {
+                    "country": "Finland",
+                    "population": 5542517,
+                    "subregion": "Northern Europe"
+                },
+                {
+                    "country": "France",
+                    "population": 65233271,
+                    "subregion": "Western Europe"
+                },
+                {
+                    "country": "Germany",
+                    "population": 82293457,
+                    "subregion": "Western Europe"
+                },
+                {
+                    "country": "Greece",
+                    "population": 11142161,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Holy See",
+                    "population": 801,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Hungary",
+                    "population": 9688847,
+                    "subregion": "Eastern Europe"
+                },
+                {
+                    "country": "Iceland",
+                    "population": 337780,
+                    "subregion": "Northern Europe"
+                },
+                {
+                    "country": "Ireland",
+                    "population": 4803748,
+                    "subregion": "Northern Europe"
+                },
+                {
+                    "country": "Italy",
+                    "population": 59290969,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Latvia",
+                    "population": 1929938,
+                    "subregion": "Northern Europe"
+                },
+                {
+                    "country": "Liechtenstein",
+                    "population": 38155,
+                    "subregion": "Western Europe"
+                },
+                {
+                    "country": "Lithuania",
+                    "population": 2876475,
+                    "subregion": "Northern Europe"
+                },
+                {
+                    "country": "Luxembourg",
+                    "population": 590321,
+                    "subregion": "Western Europe"
+                },
+                {
+                    "country": "Malta",
+                    "population": 432089,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Moldova",
+                    "population": 4041065,
+                    "subregion": "Eastern Europe"
+                },
+                {
+                    "country": "Monaco",
+                    "population": 38897,
+                    "subregion": "Western Europe"
+                },
+                {
+                    "country": "Montenegro",
+                    "population": 629219,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Netherlands",
+                    "population": 17084459,
+                    "subregion": "Western Europe"
+                },
+                {
+                    "country": "Norway",
+                    "population": 5353363,
+                    "subregion": "Northern Europe"
+                },
+                {
+                    "country": "Poland",
+                    "population": 38104832,
+                    "subregion": "Eastern Europe"
+                },
+                {
+                    "country": "Portugal",
+                    "population": 10291196,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Romania",
+                    "population": 19580634,
+                    "subregion": "Eastern Europe"
+                },
+                {
+                    "country": "Russia",
+                    "population": 143964709,
+                    "subregion": "Eastern Europe"
+                },
+                {
+                    "country": "San Marino",
+                    "population": 33557,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Serbia",
+                    "population": 8762027,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Slovakia",
+                    "population": 5449816,
+                    "subregion": "Eastern Europe"
+                },
+                {
+                    "country": "Slovenia",
+                    "population": 2081260,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Spain",
+                    "population": 46397452,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "Sweden",
+                    "population": 9982709,
+                    "subregion": "Northern Europe"
+                },
+                {
+                    "country": "Switzerland",
+                    "population": 8544034,
+                    "subregion": "Western Europe"
+                },
+                {
+                    "country": "TFYR Macedonia",
+                    "population": 2085051,
+                    "subregion": "Southern Europe"
+                },
+                {
+                    "country": "U.K.",
+                    "population": 66573504,
+                    "subregion": "Northern Europe"
+                },
+                {
+                    "country": "Ukraine",
+                    "population": 44009214,
+                    "subregion": "Eastern Europe"
+                }
+            ]
+        },
+        {
+            "region": "North America",
+            "countries": [{
+                    "country": "United States of America",
+                    "population": 326766748,
+                    "subregion": "Northern America"
+                },
+                {
+                    "country": "Canada",
+                    "population": 36953765,
+                    "subregion": "Northern America"
+                }
+            ]
+        },
+        {
+            "region": "Oceania",
+            "countries": [{
+                    "country": "Australia",
+                    "population": 24772247,
+                    "subregion": "Australia and New Zealand"
+                },
+                {
+                    "country": "Papua New Guinea",
+                    "population": 8418346,
+                    "subregion": "Melanesia"
+                },
+                {
+                    "country": "New Zealand",
+                    "population": 4749598,
+                    "subregion": "Australia and New Zealand"
+                },
+                {
+                    "country": "Fiji",
+                    "population": 912241,
+                    "subregion": "Melanesia"
+                },
+                {
+                    "country": "Solomon Islands",
+                    "population": 623281,
+                    "subregion": "Melanesia"
+                },
+                {
+                    "country": "Vanuatu",
+                    "population": 282117,
+                    "subregion": "Melanesia"
+                },
+                {
+                    "country": "Samoa",
+                    "population": 197695,
+                    "subregion": "Polynesia"
+                },
+                {
+                    "country": "Kiribati",
+                    "population": 118414,
+                    "subregion": "Micronesia"
+                },
+                {
+                    "country": "Tonga",
+                    "population": 109008,
+                    "subregion": "Polynesia"
+                },
+                {
+                    "country": "Micronesia",
+                    "population": 106227,
+                    "subregion": "Micronesia"
+                },
+                {
+                    "country": "Marshall Islands",
+                    "population": 53167,
+                    "subregion": "Micronesia"
+                },
+                {
+                    "country": "Palau",
+                    "population": 21964,
+                    "subregion": "Micronesia"
+                },
+                {
+                    "country": "Nauru",
+                    "population": 11312,
+                    "subregion": "Micronesia"
+                },
+                {
+                    "country": "Tuvalu",
+                    "population": 11287,
+                    "subregion": "Polynesia"
+                }
+            ]
+        },
+        {
+            "region": "South America",
+            "countries": [{
+                    "country": "Argentina",
+                    "population": 44688864,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "Belize",
+                    "population": 382444,
+                    "subregion": "Central America"
+                },
+                {
+                    "country": "Bolivia",
+                    "population": 11215674,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "Brazil",
+                    "population": 210867954,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "Chile",
+                    "population": 18197209,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "Colombia",
+                    "population": 49464683,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "Costa Rica",
+                    "population": 4953199,
+                    "subregion": "Central America"
+                },
+                {
+                    "country": "Ecuador",
+                    "population": 16863425,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "El Salvador",
+                    "population": 6411558,
+                    "subregion": "Central America"
+                },
+                {
+                    "country": "Guatemala",
+                    "population": 17245346,
+                    "subregion": "Central America"
+                },
+                {
+                    "country": "Guyana",
+                    "population": 782225,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "Honduras",
+                    "population": 9417167,
+                    "subregion": "Central America"
+                },
+                {
+                    "country": "Mexico",
+                    "population": 130759074,
+                    "subregion": "Central America"
+                },
+                {
+                    "country": "Nicaragua",
+                    "population": 6284757,
+                    "subregion": "Central America"
+                },
+                {
+                    "country": "Panama",
+                    "population": 4162618,
+                    "subregion": "Central America"
+                },
+                {
+                    "country": "Paraguay",
+                    "population": 6896908,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "Peru",
+                    "population": 32551815,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "Suriname",
+                    "population": 568301,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "Uruguay",
+                    "population": 3469551,
+                    "subregion": "South America"
+                },
+                {
+                    "country": "Venezuela",
+                    "population": 32381221,
+                    "subregion": "South America"
+                }
+            ]
+        }
+    ]
+}

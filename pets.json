@@ -1,0 +1,37 @@
+{
+	"pets": [
+		{
+			"type": "dog",
+			"name": "Queen",
+			"desc": [{
+				"color": "brown"
+			}, {
+				"gender": "female"
+			}, {
+				"build": "medium"
+			}]
+		},
+		{
+			"type": "dog",
+			"name": "Prince",
+			"desc": [{
+				"color": "black"
+			}, {
+				"gender": "male"
+			}, {
+				"build": "large"
+			}]
+		},
+		{
+			"type": "cat",
+			"name": "George",
+			"desc": [{
+				"color": "orange"
+			}, {
+				"gender": "male"
+			}, {
+				"build": "medium"
+			}]
+		}
+	]
+}

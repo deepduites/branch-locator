@@ -1,0 +1,113 @@
+#crumbs {
+  padding-top: 24px;
+  margin: auto;
+  width: 882px;
+  visibility: collapse;
+}
+
+.breadcrumb {
+  margin-left: 12px;
+  background: #ec5f00;
+  color: #fff;
+  visibility: collapse;
+}
+
+#crumbs-container a:hover {
+  cursor: pointer;
+  color: #00f;
+}
+
+.flat {
+   background: #ec5f00;
+}
+
+/* the div the contains all the components */
+#asset-container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 880px;
+  height: 440px;
+  margin-top: 50px;
+  padding-left: 0px;
+  padding-right: 16px;
+  padding-top: 16px;
+  padding-bottom: 0px;
+  border: 3px solid #888;
+}
+
+/* the div that contains the header and branches */
+#list-container {
+  float: left;
+  width: 28%;
+  height: 94%;
+  padding-left: 26px;
+  padding-right: 0px;
+  padding-top: 16px;
+  padding-bottom: 0px;
+}
+
+/* the div the has the map */
+#map-canvas {
+  float: right;
+  width: 70%;
+  height: 96%;
+  border: 2px solid #888;
+}
+
+/* the header text */
+#list-header {
+  font: 500 24px/1.5 "Whitney SSm A", "Whitney SSm B", "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
+  color: #00f;
+  padding-bottom: 16px;
+}
+
+/*  the list of branches */
+#list-location {
+  margin-top: 16px;
+}
+
+#list-container  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#list-location li {
+  font: 300 16px/1.5 Helvetica, Verdana, Sans-serif;
+  border-bottom: 1px solid #ccc;
+}
+
+.list-caption {
+  color: maroon;
+  font: bold 14px/1 Helvetica, Arial, Sans-serif;
+  padding: 1px 1px 1px 0;
+  margin: 1px 1px 1px 0;
+}
+
+.list-branch-items {
+  font: normal 14px/1 Helvetica, Verdana, Sans-serif;
+  padding: 1px 1px 1px 0;
+  margin: 1px 1px 1px 0;
+}
+
+li:last-child {
+  border: none;
+}
+
+#list-container ul li {
+  text-decoration: none;
+  color: #000;
+
+  -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -o-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
+  transition: font-size 0.3s ease, background-color 0.3s ease;
+  display: block;
+  width: 200px;
+}
+
+#list-container ul li:hover {
+  background: #bbb;
+  cursor: pointer;
+}

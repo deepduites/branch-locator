@@ -1,0 +1,557 @@
+{
+	"regions": [{
+		"region": "Africa",
+		"countries": [{
+			"country": "Ghana",
+			"states": [{
+				"state": "Greater Accra",
+				"cities": [{
+					"city": "Accra",
+					"branches": [{
+						"branch": {
+							"name": "Accra Branch",
+							"contact": "(23) 999 3333",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 5.603716800000001,
+							"lng": -0.18696439999996528
+						}
+					}]
+				}]
+			}]
+		}]
+	}, {
+		"region": "Asia",
+		"countries": [{
+			"country": "Philippines",
+			"states": [{
+				"state": "Metro Cebu",
+				"cities": [{
+					"city": "Cebu City",
+					"branches": [{
+						"branch": {
+							"name": "Cebu City Branch",
+							"contact": "(032) 532 2222",
+							"offchrs": "8:00AM-5:00PM"
+						},
+						"coords": {
+							"lat": 10.3156992,
+							"lng": 123.88543660000005
+						}
+					}]
+				}, {
+					"city": "Mandaue City",
+					"branches": [{
+						"branch": {
+							"name": "Mandaue City Branch",
+							"contact": "(032) 532 2222",
+							"offchrs": "8:00AM-5:00PM"
+						},
+						"coords": {
+							"lat": 10.3402623,
+							"lng": 123.94155180000007
+						}
+					}]
+				}, {
+					"city": "Lapu-Lapu City",
+					"branches": [{
+						"branch": {
+							"name": "Lapu-Lapu City Branch",
+							"contact": "(032) 532 2222",
+							"offchrs": "8:00AM-5:00PM"
+						},
+						"coords": {
+							"lat": 10.2661822,
+							"lng": 123.99729500000001
+						}
+					}]
+				}]
+			}, {
+				"state": "Northern Luzon",
+				"cities": [{
+					"city": "Batac",
+					"branches": [{
+						"branch": {
+							"name": "Batac Branch",
+							"contact": "(06) 532 2222",
+							"offchrs": "8:00AM-5:00PM"
+						},
+						"coords": {
+							"lat": 18.0460318,
+							"lng": 120.59407770000007
+						}
+					}]
+				}, {
+					"city": "Laoag",
+					"branches": [{
+						"branch": {
+							"name": "Laoag Branch",
+							"contact": "(06) 532 2222",
+							"offchrs": "8:00AM-5:00PM"
+						},
+						"coords": {
+							"lat": 18.1960128,
+							"lng": 120.59266789999992
+						}
+					}]
+				}, {
+					"city": "Pagudpud",
+					"branches": [{
+						"branch": {
+							"name": "Pagudpud Branch",
+							"contact": "(06) 532 2222",
+							"offchrs": "8:00AM-5:00PM"
+						},
+						"coords": {
+							"lat": 18.5874677,
+							"lng": 120.82208270000001
+						}
+					}]
+				}]
+			}, {
+				"state": "Metro Manila",
+				"cities": [{
+					"city": "Pasig City",
+					"branches": [{
+						"branch": {
+							"name": "Pasig City Branch",
+							"contact": "(02) 532 2222",
+							"offchrs": "8:00AM-5:00PM"
+						},
+						"coords": {
+							"lat": 14.5798822,
+							"lng": 121.08510189999993
+						}
+					}]
+				}, {
+					"city": "Makati City",
+					"branches": [{
+						"branch": {
+							"name": "Makati City Branch",
+							"contact": "(02) 532 2222",
+							"offchrs": "8:00AM-5:00PM"
+						},
+						"coords": {
+							"lat": 14.554729,
+							"lng": 121.02444519999995
+						}
+					}]
+				}, {
+					"city": "Quezon City",
+					"branches": [{
+						"branch": {
+							"name": "Quezon City Branch",
+							"contact": "(02) 532 2222",
+							"offchrs": "8:00AM-5:00PM"
+						},
+						"coords": {
+							"lat": 14.6760413,
+							"lng": 121.04370029999995
+						}
+					}]
+				}]
+			}]
+		}, {
+			"country": "Malaysia",
+			"states": [{
+				"state": "Kuala Lumpur",
+				"cities": [{
+					"city": "Kuala Lumpur",
+					"branches": [{
+						"branch": {
+							"name": "Kuala Lumpur Branch",
+							"contact": "(67) 777 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 3.1569486,
+							"lng": 101.71230300000002
+						}
+					}]
+				}]
+			}, {
+				"state": "Penang",
+				"cities": [{
+					"city": "Penang",
+					"branches": [{
+						"branch": {
+							"name": "Penang Branch",
+							"contact": "(67) 777 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 5.4163935,
+							"lng": 100.33267860000001
+						}
+					}]
+				}]
+			}, {
+				"state": "Putrajaya",
+				"cities": [{
+					"city": "Putrajaya",
+					"branches": [{
+						"branch": {
+							"name": "Putrajaya Branch",
+							"contact": "(67) 777 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 2.926361,
+							"lng": 101.69644500000004
+						}
+					}]
+				}]
+			}]
+		}, {
+			"country": "Singapore",
+			"states": [{
+				"state": "Bukit Merah",
+				"cities": [{
+					"city": "Bukit Merah",
+					"branches": [{
+						"branch": {
+							"name": "Bukit Merah Branch",
+							"contact": "(66) 999 3333",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 1.283608,
+							"lng": 103.81617589999996
+						}
+					}]
+				}]
+			}, {
+				"state": "Yishun",
+				"cities": [{
+					"city": "Yishun",
+					"branches": [{
+						"branch": {
+							"name": "Yishun Branch",
+							"contact": "(66) 777 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 1.430368,
+							"lng": 103.83536279999998
+						}
+					}]
+				}]
+			}, {
+				"state": "Pasir Ris",
+				"cities": [{
+					"city": "Pasir Ris",
+					"branches": [{
+						"branch": {
+							"name": "Pasir Ris Branch",
+							"contact": "(66) 444 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 1.3720937,
+							"lng": 103.94737280000004
+						}
+					}]
+				}]
+			}]
+		}, {
+			"country": "Kingdom of Saudi Arabia",
+			"states": [{
+				"state": "Riyadh",
+				"cities": [{
+					"city": "Riyadh",
+					"branches": [{
+						"branch": {
+							"name": "Riyadh Branch",
+							"contact": "(66) 999 3333",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 24.7135517,
+							"lng": 46.67529569999999
+						}
+					}]
+				}]
+			}, {
+				"state": "Jeddah",
+				"cities": [{
+					"city": "Jeddah",
+					"branches": [{
+						"branch": {
+							"name": "Jeddah Branch",
+							"contact": "(66) 777 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 21.485811,
+							"lng": 39.19250480000005
+						}
+					}]
+				}]
+			}, {
+				"state": "Dammam",
+				"cities": [{
+					"city": "Dammam",
+					"branches": [{
+						"branch": {
+							"name": "Dammam Branch",
+							"contact": "(66) 444 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 26.4206828,
+							"lng": 50.08879430000002
+						}
+					}]
+				}]
+			}]
+		}, {
+			"country": "United Arab Emirates",
+			"states": [{
+				"state": "Abu Dhabi",
+				"cities": [{
+					"city": "Abu Dhabi",
+					"branches": [{
+						"branch": {
+							"name": "Abu Dhabi Branch",
+							"contact": "(66) 999 3333",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 24.453884,
+							"lng": 54.37734380000006
+						}
+					}]
+				}]
+			}, {
+				"state": "Sharjah",
+				"cities": [{
+					"city": "Sharjah",
+					"branches": [{
+						"branch": {
+							"name": "Sharjah Branch",
+							"contact": "(66) 777 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 25.3462553,
+							"lng": 55.42093169999998
+						}
+					}]
+				}]
+			}, {
+				"state": "Dubai",
+				"cities": [{
+					"city": "Dubai",
+					"branches": [{
+						"branch": {
+							"name": "Dubai Branch",
+							"contact": "(66) 444 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 25.2048493,
+							"lng": 55.270782800000006
+						}
+					}]
+				}]
+			}]
+		}, {
+			"country": "Qatar",
+			"states": [{
+				"state": "Doha",
+				"cities": [{
+					"city": "Doha",
+					"branches": [{
+						"branch": {
+							"name": "Doha Branch",
+							"contact": "(66) 999 3333",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 25.2854473,
+							"lng": 51.53103979999992
+						}
+					}]
+				}]
+			}, {
+				"state": "Dukhan",
+				"cities": [{
+					"city": "Dukhan",
+					"branches": [{
+						"branch": {
+							"name": "Dukhan Branch",
+							"contact": "(66) 777 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 25.4280036,
+							"lng": 50.78330679999999
+						}
+					}]
+				}]
+			}, {
+				"state": "Ar-Rayyan",
+				"cities": [{
+					"city": "Ar-Rayyan",
+					"branches": [{
+						"branch": {
+							"name": "Ar-Rayyan Branch",
+							"contact": "(66) 444 5555",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 25.2462873,
+							"lng": 51.409962500000006
+						}
+					}]
+				}]
+			}]
+		}]
+	}, {
+		"region": "Caribbean",
+		"countries": [{
+			"country": "Barbados",
+			"states": [{
+				"state": "Bridgetown",
+				"cities": [{
+					"city": "Bridgetown",
+					"branches": [{
+						"branch": {
+							"name": "Bridgetown Branch",
+							"contact": "(66) 999 3333",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 13.096851,
+							"lng": -59.61448189999999
+						}
+					}]
+				}]
+			}]
+		}]
+	}, {
+		"region": "Europe",
+		"countries": [{
+			"country": "Austria",
+			"states": [{
+				"state": "Vienna",
+				"cities": [{
+					"city": "Vienna",
+					"branches": [{
+						"branch": {
+							"name": "Vienna Branch",
+							"contact": "(01) 999 3333",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 48.2079718,
+							"lng": 16.374023699999952
+						}
+					}]
+				}]
+			}]
+		}, {
+			"country": "Scotland",
+			"states": [{
+				"state": "Glasgow",
+				"cities": [{
+					"city": "Glasgow City",
+					"branches": [{
+						"branch": {
+							"name": "The Hamilton Branch",
+							"contact": "+44 1041 400 0433",
+							"offchrs": "8:00AM - 5:00PM"
+						},
+						"coords": {
+							"lat": 55.8405235,
+							"lng": -4.222571099999982
+						}
+					}]
+				}]
+			}]
+		}]
+	}, {
+		"region": "North America",
+		"countries": [{
+			"country": "United States of America",
+			"states": [{
+				"state": "Tennessee",
+				"cities": [{
+					"city": "Jacksonville",
+					"branches": [{
+						"branch": {
+							"name": "Jacksonville Branch",
+							"contact": "(01) 999 3333",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": 36.30006719999999,
+							"lng": -89.31951549999997
+						}
+					}]
+				}]
+			}]
+		}]
+	}, {
+		"region": "Oceania",
+		"countries": [{
+			"country": "Australia",
+			"states": [{
+				"state": "South Australia",
+				"cities": [{
+					"city": "Adelaide",
+					"branches": [{
+						"branch": {
+							"name": "Adelaide Branch",
+							"contact": "(43) 999 3333",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": -34.92849890000001,
+							"lng": 138.60074559999998
+						}
+					}]
+				}]
+			}, {
+				"state": "New South Wales",
+				"cities": [{
+					"city": "Sydney",
+					"branches": [{
+						"branch": {
+							"name": "The NSW Branch In Sydney",
+							"contact": "+61 44 433 5643",
+							"offchrs": "8:00AM - 5:00PM"
+						},
+						"coords": {
+							"lat": -33.866754,
+							"lng": 151.21278400000006
+						}
+					}]
+				}]
+			}]
+		}]
+	}, {
+		"region": "South America",
+		"countries": [{
+			"country": "Brazil",
+			"states": [{
+				"state": "Estado de Goias",
+				"cities": [{
+					"city": "Brasilla",
+					"branches": [{
+						"branch": {
+							"name": "Brasilla Branch",
+							"contact": "(55) 999 3333",
+							"offchrs": "9:00AM-6:00PM"
+						},
+						"coords": {
+							"lat": -15.77972,
+							"lng": -47.92972
+						}
+					}]
+				}]
+			}]
+		}]
+	}]
+}

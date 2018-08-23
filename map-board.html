@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Branch Locator</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
+  <link rel="stylesheet" href="css/brnmap.css" type="text/css">
+</head>
+
+<body>
+
+  <header>
+    <div class="navbar-fixed">
+      <nav class="nav-wrapper orange darken-2">
+        <div class="container">
+          <a href="#" class="brand-logo blue-text">SHADOW</a>
+          <a href="#" class="sidenav-trigger" data-target="mobile-links">
+            <i class="material-icons">menu</i>
+          </a>
+          <ul class="right hide-on-med-and-down">
+            <li>
+              <a href="">Home</a>
+            </li>
+            <li>
+              <a href="">About</a>
+            </li>
+            <li>
+              <a href="">Contact</a>
+            </li>
+            <li>
+              <a href="" class="btn blue black-text">Login</a>
+            </li>
+            <li>
+              <a href="" class="btn blue black-text">Register</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <div id="asset-container">
+    <div id="list-container">
+      <span id="list-header">REGIONS</span>
+      <ul id="list-location">
+        <li>Southeast Asia</li>
+        <li>Middle East</li>
+        <li>Carribean</li>
+        <li>North America</li>
+        <li>South America</li>
+        <li>Europe</li>
+        <li>Africa</li>
+        <li>Oceania</li>
+      </ul>
+    </div>
+    <div id="map-canvas"></div>
+  </div>
+
+  <div id="crumbs">
+    <nav class="flat">
+      <div class="nav-wrapper">
+        <div class="col l12" id="crumbs-container">
+          <a id="trail-regions" class="breadcrumb">Regions</a>
+          <a id="trail-countries" class="breadcrumb">Countries</a>
+          <a id="trail-states" class="breadcrumb">States</a>
+          <a id="trail-cities" class="breadcrumb">Cities</a>
+          <a id="trail-branches" class="breadcrumb">Branches</a>
+        </div>
+      </div>
+    </nav>
+  </div>
+
+  <script type="text/javascript" src="script/jquery-3.3.1.min.js"></script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyALbrZLcSHdYnKazlQnafUxfnhYdEl36z0&callback=initMap"></script>
+  <script type="text/javascript" src="script/materialize.min.js"></script>
+  <script type="text/javascript" src="script/jsonutil.js"></script>
+
+</body>
+
+</html>
